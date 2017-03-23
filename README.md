@@ -16,6 +16,8 @@
   
 * To update outdated submodules use:
 
+  `git submodule update --init`
+  - for the first time, or - 
   `git submodule update`
 
 
