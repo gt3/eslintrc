@@ -14,11 +14,9 @@
 
   `git clone --recursive <project url>`
   
-* To update outdated submodules use:
+* To fetch lastest changes from upstream, and merge:
 
-  `git submodule update --init`
-  - for the first time, or - 
-  `git submodule update`
+  `git submodule update --remote --merge
 
 
 Note: Eslint rules used in _.eslintrc.json_ may seem too forgiving. Perhaps another _.eslintrc-strict_ needs to be added?
