@@ -16,7 +16,7 @@
   
 * To add submodules to already cloned repo:
 
-  `git submodule update --init`
+  `git submodule update --init` (config/eslint HEAD will be in detached state)
   
 * To update submodule from remote:
 
