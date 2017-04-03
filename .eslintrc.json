@@ -133,7 +133,7 @@
       "LabeledStatement",
       "WithStatement"
     ],
-    "no-return-assign": "warn",
+    "no-return-assign": "off",
     "no-script-url": "warn",
     "no-self-assign": "warn",
     "no-self-compare": "warn",
