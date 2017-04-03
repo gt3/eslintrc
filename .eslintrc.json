@@ -11,6 +11,7 @@
   },
   "rules": {
     "array-callback-return": "warn",
+    "arrow-parens": false,
     "default-case": [
       "warn",
       {
@@ -25,6 +26,7 @@
       "warn",
       "allow-null"
     ],
+    "generator-star-spacing": false,
     "guard-for-in": "warn",
     "indent": [
       "error",
